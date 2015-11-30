@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rkachowski/videocracy.png?label=ready&title=Ready)](https://waffle.io/rkachowski/videocracy)
 # Videocracy
 
 To start your Phoenix app:
